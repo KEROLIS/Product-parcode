@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">parcode</string>
+    <string name="title_activity_my_list">MyList</string>
+</resources>
